@@ -1,4 +1,4 @@
-package com.miempresa.miproyecto.controllers;
+package com.baeldung.controllers;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;

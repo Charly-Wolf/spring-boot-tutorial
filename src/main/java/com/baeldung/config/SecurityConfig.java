@@ -1,4 +1,4 @@
-package com.miempresa.miproyecto.config;
+package com.baeldung.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

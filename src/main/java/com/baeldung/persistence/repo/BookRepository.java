@@ -1,6 +1,6 @@
-package repo;
+package com.baeldung.persistence.repo;
 
-import com.miempresa.miproyecto.persistence.model.Book;
+import com.baeldung.persistence.model.Book;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

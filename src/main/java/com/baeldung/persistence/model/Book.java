@@ -1,4 +1,4 @@
-package com.miempresa.miproyecto.persistence.model;
+package com.baeldung.persistence.model;
 
 import jakarta.persistence.*;
 
